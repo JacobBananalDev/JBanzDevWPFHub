@@ -60,6 +60,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Compile Include="..\JbanzDevWPFHubVersionInfo.cs">
+      <Link>Properties\JbanzDevWPFHubVersionInfo.cs</Link>
+    </Compile>
     <Compile Include="Controls\MatrixButton.cs" />
   </ItemGroup>
   <ItemGroup>
