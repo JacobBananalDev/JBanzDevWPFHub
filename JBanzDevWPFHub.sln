@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBanzDevUIMatrix", "JBanzDevUIMatrix\JBanzDevUIMatrix.csproj", "{47F10368-7490-49CE-A5EE-EB5F665FC08A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBanzDevUIMatrix", "SharedLibrary\JBanzDevUIMatrix\JBanzDevUIMatrix.csproj", "{47F10368-7490-49CE-A5EE-EB5F665FC08A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBanzDevCommonTools", "JBanzDevCommonTools\JBanzDevCommonTools.csproj", "{984BE549-E513-4750-8C4D-521DA8D0A022}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBanzDevCommonTools", "SharedLibrary\JBanzDevCommonTools\JBanzDevCommonTools.csproj", "{984BE549-E513-4750-8C4D-521DA8D0A022}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
