@@ -44,7 +44,8 @@
     <Compile Include="..\JbanzDevWPFHubVersionInfo.cs">
       <Link>Properties\JbanzDevWPFHubVersionInfo.cs</Link>
     </Compile>
-    <Compile Include="ExtensionMethods\CommonExtensions.cs" />
+    <Compile Include="Encryption\JbanzDevEncryption.cs" />
+    <Compile Include="ExtensionMethods\JbanzDevExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

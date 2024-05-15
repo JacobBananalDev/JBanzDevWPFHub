@@ -2,7 +2,7 @@
 
 namespace JBanzDevCommonTools.ExtensionMethods
 {
-    public static class CommonExtensions
+    public static class JbanzDevExtensions
     {
         public static bool IsNotEmpty(this string value)
         {
