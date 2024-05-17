@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:MatrixConverters="clr-namespace:JBanzDevUIMatrix.Converters">
+
+    <MatrixConverters:BoolToCollapsedVisibilityConverter x:Key="BoolToCollapsedVisibilityConverter"/>
+    <MatrixConverters:BoolToHiddenVisibilityConverter x:Key="BoolToHiddenVisibilityConverter"/>
+    <MatrixConverters:BoolToEnableConverter x:Key="BoolToEnableConverter"/>
+
+</ResourceDictionary>
